@@ -15,4 +15,4 @@
 1. Клонируйте репозиторий
 2. Установите зависимости: `pip install -r requirements.txt`
 3. Настройте `.env`
-4. Запустите: `python bot/main.py`
+4. Запустите: `python -m bot/main.py`
